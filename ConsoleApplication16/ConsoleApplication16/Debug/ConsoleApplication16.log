@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+c:\users\steph\source\repos\consoleapplication16\consoleapplication16\consoleapplication16.cpp(1057): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Steph\source\repos\ConsoleApplication16\Debug\ConsoleApplication16.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication16.vcxproj -> C:\Users\Steph\source\repos\ConsoleApplication16\Debug\ConsoleApplication16.exe

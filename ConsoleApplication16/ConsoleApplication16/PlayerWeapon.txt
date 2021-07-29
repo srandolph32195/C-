@@ -1,0 +1,6 @@
+Quality Common
+Type Sword
+Level 1
+Accuracy 0.9
+AttackBoost 1
+

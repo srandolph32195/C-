@@ -1,0 +1,6 @@
+Quality Common
+Type Light
+Level 1
+HealthBoost 1
+DefenseBoost 0
+
